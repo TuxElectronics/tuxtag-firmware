@@ -10,5 +10,5 @@ Work in progress — BLE stack setup.
 # PlatformIO or ESP-IDF instructions coming soon
 ```
 
-##License
+## License
 GNU General Public License v3.0 (GPL-3.0)
