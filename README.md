@@ -39,8 +39,9 @@ The `platformio.ini` is pre-configured for the ESP32-C3-DevKitM-1 with the Ardui
 
 1. Power the device.
 2. On your phone or laptop, connect to the Wi-Fi network **`ESP32_Tag_Network`** (password: `password123`).
-3. Open a browser and navigate to **`http://192.168.4.1`**.
-4. Use the on-screen buttons to turn the vibrator or buzzer on/off.
+3. **Android users:** open the **TuxTag app** — it connects directly after joining the access point, no browser needed.
+4. **Other devices:** open a browser and navigate to **`http://192.168.4.1`**.
+5. Use the on-screen buttons to turn the vibrator or buzzer on/off.
 
 ## License
 
